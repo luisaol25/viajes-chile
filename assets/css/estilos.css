@@ -1,0 +1,88 @@
+  /*  nav */
+  
+  body {
+    font-family: 'Open Sans', sans-serif;
+  }
+  
+  .carousel {
+    position: relative;
+  }
+  
+  .transparent-navbar {
+    background-color: transparent !important;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: 999;
+  }
+
+  .navbar-toggler-icon{
+    filter: invert(1);
+   }
+
+    .navbar-toggler{
+    border: 1px solid white;
+    }
+
+  .svg {
+    width: 10%;
+    height: 10%;
+  }
+
+  .nav-color{
+    color: white;
+  }
+
+  /* Section textos  */
+
+  .principal{
+    background-color: black;
+  }
+
+  h2 {
+    text-align: center;
+    color: white;
+  }
+  .icon{
+    background-color: #0dcaf0;
+  }
+  .white-icon {
+    color: white;
+    
+  }
+  .text-center{
+    text-align: center;
+  }
+  
+
+  p {
+    color: white;
+  }
+  label{
+    color: white;
+  }
+  .btn-white-text {
+    color: white;
+  }
+  .card-body{
+    background-color: #0dcaf0;
+  }
+
+
+/* footer*/
+
+  footer {
+    background-color:#0dcaf0;
+  }
+  h3{
+    color: white;
+    text-align: center;
+  }
+
+  .icons {
+    text-align: center;
+  }
+
+  .icon-margin{
+    margin-right: 10px; 
+  }
